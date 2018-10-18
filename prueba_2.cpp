@@ -4,8 +4,7 @@
 
 int main(){
 
-
-	cout<<"cambios pc alternativo"<<endl;	
+	cout<<"cambios pc alternativo !"<<endl;	
 
 	return 0;
 }
