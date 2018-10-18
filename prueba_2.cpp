@@ -3,7 +3,9 @@
 
 
 int main(){
-	cout<<"cambios pc original"<<endl;
+
+
+	cout<<"cambios pc alternativo"<<endl;	
 
 	return 0;
 }
